@@ -1,1 +1,1 @@
-# indeed_job_scraper
+# Indeed job scraper
